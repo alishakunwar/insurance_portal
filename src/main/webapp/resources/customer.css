@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+
+.main-holder{
+   
+  width: 400px;
+  border: 8px solid black;
+  padding: 7px;
+  margin: 20px;
+  position: fixed; /* or absolute */
+  top: 10%;
+  left: 40%;
+  background-color: lightgrey;
+}
+
+
+.imgcontainer {
+  text-align: center;
+  margin: 210px 0 6px 0;
+  size: 10px;
+}
